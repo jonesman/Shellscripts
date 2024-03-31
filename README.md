@@ -3,4 +3,4 @@ Simple shellscript helpers
 
 |Script|Description|
 |------|-----------|
-|swdisplay.sh|Switch displays on a laptop|
+|swdisplay.sh|Quickly switch displays on a laptop (int+ext, only internal, only external)|
